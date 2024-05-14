@@ -3,8 +3,8 @@
 The plots below, shows the input images (validation image), mask (label) and image generated from the trained UNet semantic segmentation model
 
 Fig A
-![Alternate image text](https://github.com/edd3x/water_quality_planet_data/blob/main/plots/predicts1.png)
+![Alternate image text](https://github.com/edd3x/water_quality_planet_data/blob/main/plots/predicts1.jpg)
 
 
 Fig B
-![Alternate image text](https://github.com/edd3x/water_quality_planet_data/blob/main/plots/predicts2.png)
+![Alternate image text](https://github.com/edd3x/water_quality_planet_data/blob/main/plots/predicts2.jpg)
